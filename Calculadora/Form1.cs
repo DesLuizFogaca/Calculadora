@@ -141,6 +141,7 @@ namespace Calculadora {
             }
             else {
                 MessageBox.Show("Informe o valor para efetuar a soma");
+
                  }
         }
     }
